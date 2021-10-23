@@ -1,0 +1,2 @@
+# 45000-FNY-MINED
+A total value of 45000FNY was purchased on the finacelyusa exchange platform for USD40000 after all transaction fees have been subtracted. Zero taxes paid which is confirmed by the both parties involved the transaction. Buyer paid Acquired 45000FNY for 40000USD which a payment was made to the Seller, The Transaction was used to generate more smart contract using the proof of history algorithm. is attached to this Respirtory
